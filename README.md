@@ -1,1 +1,1 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHPp9-wJUExUg/profile-displaybackgroundimage-shrink_350_1400/0/1685661299566?e=1691020800&v=beta&t=6vgmdbbNOm-25i1-ZVct27BW9SwzsACSX7KKX6vusrY" alt="Oficina de Freepik" width="100%">
+<img src="https://media.licdn.com/dms/image/D4D16AQGL-hYUu2-lpA/profile-displaybackgroundimage-shrink_350_1400/0/1685661696961?e=1691020800&v=beta&t=-MTIoVzdQIUTOusjBNIpmXkUIxd3xrbR8pdc8x8OIh4" alt="Oficina de Freepik" width="100%">
