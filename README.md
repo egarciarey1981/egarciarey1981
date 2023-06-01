@@ -5,3 +5,5 @@ Hello and welcome to my GitHub profile! I'm a programmer living in Malaga, Spain
 I have experience in languages like Java, PHP and Python, as well as technologies like gRPC, PHP Slim and DDD (Domain-Driven Design). Currently, my team is working on using Artificial Intelligence to find the most relevant images for our users.
 
 Thank you for visiting my profile. I look forward to connecting with other professionals and continuing to grow as a developer. Join me on this exciting web development journey!
+
+  <img align="right" src="image.gif" />
