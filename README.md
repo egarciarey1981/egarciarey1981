@@ -1,1 +1,1 @@
-<img src="freepik.png" alt="Oficina de Freepik" width="100%">
+<img src="header.jpg" alt="Campus 42 Málaga" width="100%">
